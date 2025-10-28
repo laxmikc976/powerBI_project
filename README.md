@@ -1,4 +1,4 @@
-#Data Visualization#
+##Data Visualization##
 
 This pie chart visualizes the total combined values of Savings and Income distributed by Year.
 
@@ -16,4 +16,5 @@ Data Breakdown (approximate slices):
 
 2025 (Violet): 576K (14.38%)
 
+This Power BI report visualizes financial data (Income and Savings) by year (2020–2025) using a pie chart. It shows the proportion of total income and savings per year, with clear labeling, color-coded categories, and filter options for dynamic data exploration.
  
