@@ -1,4 +1,4 @@
-## Data Visualization##
+## Data Visualization
 
 This pie chart visualizes the total combined values of Savings and Income distributed by Year.
 
